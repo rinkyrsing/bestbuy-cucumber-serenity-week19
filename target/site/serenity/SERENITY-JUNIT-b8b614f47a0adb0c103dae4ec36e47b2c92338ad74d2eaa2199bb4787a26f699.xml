@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Utilities End Points" skipped="0" tests="2" time="5.13" timestamp="2022-06-21T15:20:14.062+01:00[Europe/London]"><testcase name="I check version of utilities endpoint"/><testcase name="I do health check of utilities endpoint"/></testsuite>

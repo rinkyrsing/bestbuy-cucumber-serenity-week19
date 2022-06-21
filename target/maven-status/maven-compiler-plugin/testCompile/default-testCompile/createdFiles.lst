@@ -1,0 +1,8 @@
+com\swagger\api\bestbuyinfo\ServicesCRUDTestWithSteps.class
+com\swagger\api\testbase\TestBase.class
+com\swagger\api\bestbuyinfo\ProductsCRUDTest.class
+com\swagger\api\bestbuyinfo\StoresCRUDTest.class
+com\swagger\api\bestbuyinfo\UtilitiesCRUTest.class
+com\swagger\api\bestbuyinfo\ServicesCRUDTest.class
+com\swagger\api\bestbuyinfo\StoresCRUDTestWithSteps.class
+com\swagger\api\bestbuyinfo\CategoriesCRUDTest.class

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="5" failures="0" name="Stores End Point" skipped="0" tests="5" time="0.48" timestamp="2022-06-21T15:03:51.784+01:00[Europe/London]"><testcase name="I should read all stores data"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.swagger.api.steps.StoreSteps.iSendAPOSTRequestWithAValidPayloadToTheStoresEndpoint(StoreSteps.java:56)&#13;
+✽.When I send a POST request with a valid payload to the stores endpoint(store.feature:9)&#13;
+</system-err></testcase><testcase name="I read a newly created store on stores end point"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.swagger.api.steps.StoreSteps.iSendAGETRequestToNewlyCreatedStoreWithProductID(StoreSteps.java:80)&#13;
+✽.When I send a GET request to newly created store with product ID(store.feature:13)&#13;
+</system-err></testcase><testcase name="I update a newly created store on stores end point"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.swagger.api.steps.StoreSteps.iMustGetAValidResponseCodeFromStoresEndpoint(StoreSteps.java:74)&#13;
+✽.And I must get a valid response code 201 from stores endpoint(store.feature:19)&#13;
+</system-err></testcase><testcase name="I delete a newly created store on stores end point"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.swagger.api.steps.StoreSteps.iSendADELETERequestToNewlyCreatedStoreWithProductID(StoreSteps.java:101)&#13;
+✽.When I send a DELETE request to newly created store with product ID(store.feature:23)&#13;
+</system-err></testcase><testcase name="I read all stores data from the application"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.swagger.api.steps.StoreSteps.iSendAGETRequestToTheStoresEndpoint(StoreSteps.java:44)&#13;
+✽.When I send a GET request to the stores endpoint(store.feature:28)&#13;
+</system-err></testcase></testsuite>
